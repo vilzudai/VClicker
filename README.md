@@ -10,4 +10,4 @@ VClicker is a simple clicker application. Choose a window to click, choose the i
 
 The MIT license (Refer to the [LICENSE.md][license] file)
 
-[license]: https://github.com/vilzudai/VClicker/LICENSE.md
+[license]: https://github.com/vilzudai/VClicker/blob/master/LICENSE.md
