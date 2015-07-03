@@ -5,3 +5,9 @@ VClicker is a simple clicker application. Choose a window to click, choose the i
 ## Prerequisites
 
  - **Windows:** .Net 4.0+
+
+## License
+
+The MIT license (Refer to the [LICENSE.md][license] file)
+
+[license]: https://github.com/vilzudai/VClicker/LICENSE.md
